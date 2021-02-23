@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(107, 89, 55);
+}
+
+header
+{
+    background-color: blanchedalmond;
+    height: 90px;
+}
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.content{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 50%;
+}
+
+p{
+    background-color: rgb(230, 196, 125);
+    color: rgb(37, 37, 41);
+    text-indent: 5px;
+}
